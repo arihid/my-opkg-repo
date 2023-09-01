@@ -196,9 +196,9 @@ Version: 1.0
 Depends: libc, luci-compat, luci-theme-argon
 Section: luci
 Architecture: all
-Installed-Size: 4400
+Installed-Size: 3120
 Filename: luci-app-argon-config_1.0_all.ipk
-Size: 4096
+Size: 3976
 SHA256sum: 9501cdb51131548b87e50851da7652cfe83768940d1b46475ebba04717cd4a55
 Description:  LuCI page for Argon Config
 
@@ -1003,9 +1003,9 @@ Version: 2.3.1
 Depends: libc, luci-lib-ipkg, curl, jsonfilter
 Section: luci
 Architecture: all
-Installed-Size: 405570
+Installed-Size: 388570
 Filename: luci-theme-argon_2.3.1_all.ipk
-Size: 393216
+Size: 389175
 SHA256sum: 93d8b027a2f49550b83731e3f79fa7c051f49061ef5afbeed878af7d2cbafa5b
 Description:  Argon Theme
 
