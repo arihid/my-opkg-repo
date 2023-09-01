@@ -260,18 +260,18 @@ SHA256sum: 3abaa3a9bce645e0aefd3ff53059c1a7b1d295065601c04b819f47ac808b30c6
 Description:  LuCI support for Amlogic, Allwinner and Rockchip related boxs
 
 Package: luci-app-argon-config
-Version: 0.9
-Depends: libc, luci-compat
+Version: 1.0
+Depends: libc, luci-compat, luci-theme-argon
 Source: /home/neo/wrt-project/custom-feeds/luci-app-argon-config
 SourceName: luci-app-argon-config
 Section: luci
 SourceDateEpoch: 1651712066
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 3606
-Filename: luci-app-argon-config_0.9_all.ipk
-Size: 4502
-SHA256sum: 8f6ab9ae24aef9a9c64914205c7b33d038c10fd970738cd0cdca9988a2b7b2aa
+Installed-Size: 4400
+Filename: luci-app-argon-config_1.0_all.ipk
+Size: 4096
+SHA256sum: 9501cdb51131548b87e50851da7652cfe83768940d1b46475ebba04717cd4a55
 Description:  LuCI page for Argon Config
 
 Package: luci-app-atinout-mod
@@ -1352,7 +1352,7 @@ SHA256sum: a57b69a301b40afdfce08e5fe55a44b26afa9b29a0940eb081d04146e35f797a
 Description:  Support for MBIM
 
 Package: luci-theme-argon
-Version: 2.2.9.4
+Version: 2.3.1
 Depends: libc, luci-lib-ipkg, curl, jsonfilter
 Source: /home/neo/wrt-project/custom-feeds/luci-theme-argon
 SourceName: luci-theme-argon
@@ -1360,9 +1360,9 @@ Section: luci
 SourceDateEpoch: 1671516369
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 414638
-Filename: luci-theme-argon_2.2.9.4_all.ipk
-Size: 415307
+Installed-Size: 405570
+Filename: luci-theme-argon_2.3.1_all.ipk
+Size: 393216
 SHA256sum: 5e3731e38f4a89428f624034c1bdcc2dfa3692c6e93f78da72f7b48846f195c0
 Description:  Argon Theme
 
